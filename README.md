@@ -2,9 +2,14 @@
 
 <!--
 **zjysteven/zjysteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+I'm Jingyang (Steven) Zhang, a Ph.D. student at Duke University.
 
+
+See my [personal webpage](https://zjysteven.github.io) to learn more about me.
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
