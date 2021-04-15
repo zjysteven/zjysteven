@@ -7,7 +7,7 @@
 I'm Jingyang (Steven) Zhang, a Ph.D. student at Duke University.
 
 
-See my [personal webpage](https://zjysteven.github.io) to learn more about me.
+See my [personal webpage](https://zjysteven.github.io) to know more about my research.
 
 <!--
 - 🔭 I’m currently working on ...
