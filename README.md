@@ -6,8 +6,9 @@
 
 I'm Jingyang (Steven) Zhang, a Ph.D. student at Duke University.
 
-
 See my [personal webpage](https://zjysteven.github.io) to know more about my research.
+
+[![Jingyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjysteven)](https://github.com/zjysteven/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
