@@ -4,7 +4,7 @@
 **zjysteven/zjysteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Jingyang (Steven) Zhang, a machine learning engineer at [Sciforium](https://www.linkedin.com/company/sciforium/posts/?feedView=all). I currently focus on developing the lastest multi-modal LLMs. Previously I got my Ph.D. from Duke University in 2024 and Bachelor degree from Tsinghua University in 2019.
+I'm Jingyang (Steven) Zhang, a Research Scientist at [Virtue AI](https://www.virtueai.com/). I currently focus on developing the lastest multi-modal LLMs. Previously I got my Ph.D. from Duke University in 2024 (supervised by Prof. Yiran Chen and Prof. Hai (Helen) Li) and Bachelor degree from Tsinghua University in 2019.
 
 See my [personal webpage](https://zjysteven.github.io) to know more about me and my Ph.D. research.
 
