@@ -8,7 +8,7 @@ I'm Jingyang (Steven) Zhang, a Research Scientist at [Virtue AI](https://www.vir
 
 See my [personal webpage](https://zjysteven.github.io) to know more about me and my Ph.D. research.
 
-[![Jingyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjysteven)](https://github.com/zjysteven/github-readme-stats)
+[![Jingyang's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zjysteven)](https://github.com/zjysteven/github-readme-stats-fast)
 
 <!--
 - 🔭 I’m currently working on ...
